@@ -69,7 +69,7 @@ markdown_extensions:
   # - admonition
   - attr_list
   # - def_list
-  # - footnotes
+  - footnotes
   # - meta
   - md_in_html
   - pymdownx.arithmatex:
