@@ -13,25 +13,25 @@ Construct a graph to represent the adjacency relationship of rooms in a floor of
 **Answer:** \[Do it yourself\]  
 Some examples taken from a floor plan paper \[[2]\] in Figure [1.2.1]
 
-<figure>
-<embed src="../../figures/1_2_floorplan_to_graph.svg" id="fig:1_2_floorplan_to_graph"
-style="width:100.0%" />
+<figure markdown id="fig:1_2_floorplan_to_graph">
+![Floor plan](../../figures/1_2_floorplan_to_graph.svg#only-light)
+![Floor plan dark](../../figures/1_2_floorplan_to_graph_dark.svg#only-dark)
 <figcaption aria-hidden="true">Floor plan</figcaption>
 </figure>
 
 ### 3.
 Consider a party where there are exactly two alternate options of foods for each category of foods as follows. Rice: plane/yellow, Curry: fish/chicken, Naan: plain/butter, Kebab: chicken/mutton, Fruit: banana/mango, Drink: tea/coffee. Registered participants of the party gave their options as in Figure [1.3.1]. Two participants conflict in their options if they give different options in the same category. Represent the conflicts of the participants using a conflict graph where each participant is represented by a vertex and there is an edge between two vertices if the corresponding participants conflict. By observing the conflict graph, find out the minimum number of persons whose absence divides the participants into two conflict free groups.
 
-<figure>
-<embed src="../../figures/1_3_table_food_opt.svg" id="fig:1_3_table_food_opt"
-style="width:100.0%" />
+<figure markdown id="fig:1_3_table_food_opt">
+![Food option](../../figures/1_3_table_food_opt.svg#only-light)
+![Food option dark](../../figures/1_3_table_food_opt_dark.svg#only-dark)
 <figcaption aria-hidden="true">Food option</figcaption>
 </figure>
 
 **Answer:** Conflict graph Figure [1.3.2]
-<figure>
-<embed src="../../figures/1_3_conflict_graph.svg" id="fig:1_3_conflict_graph"
-style="width:100.0%" />
+<figure markdown id="fig:1_3_conflict_graph">
+![Conflict graph](../../figures/1_3_conflict_graph.svg#only-light)
+![Conflict graph dark](../../figures/1_3_conflict_graph_dark.svg#only-dark)
 <figcaption aria-hidden="true">Conflict graph</figcaption>
 </figure>
 
@@ -45,9 +45,9 @@ There are five jobs $\{J_1, J_2, J_3, J_4, J_5\}$ in a company for which there a
 
 **Answer:** Job assignment graph Figure [1.4.1]
 
-<figure>
-<embed src="../../figures/1_4_job_assg.svg" id="fig:1_4_job_assg"
-style="width:100.0%" />
+<figure markdown id="fig:1_4_job_assg">
+![Job assignment graph](../../figures/1_4_job_assg.svg#only-light)
+![Job assignment graph dark](../../figures/1_4_job_assg_dark.svg#only-dark)
 <figcaption aria-hidden="true">Job assignment graph</figcaption>
 </figure>
 
@@ -56,9 +56,9 @@ An industry has 600 square meter rectangular area on a floor of a building where
 
 **Answer:** Industry unit layout Figure [1.5.1]
 
-<figure>
-<embed src="../../figures/1_5_floor_plan.svg" id="fig:1_5_floor_plan"
-style="width:80.0%" />
+<figure markdown id="fig:1_5_floor_plan">
+![Industry unit layout](../../figures/1_5_floor_plan.svg#only-light)
+![Industry unit layout dark](../../figures/1_5_floor_plan_dark.svg#only-dark)
 <figcaption aria-hidden="true">Industry unit layout</figcaption>
 </figure>
 

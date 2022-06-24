@@ -13,7 +13,7 @@
    viewBox="0 0 262.27526 278.36597"
    height="371.15463"
    width="349.70035"
-   sodipodi:docname="3_10_3-conn-6-edge.svg"
+   sodipodi:docname="3_10_3-conn-6-edge_dark.svg"
    inkscape:version="0.92.4 (5573076, 2020-04-04)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -30,7 +30,7 @@
      showgrid="false"
      inkscape:pagecheckerboard="true"
      inkscape:zoom="0.63585358"
-     inkscape:cx="-20.949622"
+     inkscape:cx="-415.69459"
      inkscape:cy="185.57732"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -176,26 +176,26 @@
   </defs>
   <path
      inkscape:connector-curvature="0"
-     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78811085"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78811085"
      d="m 57.345273,50.278416 c 0,7.781077 -6.314266,14.095343 -14.095343,14.095343 -7.788061,0 -14.095341,-6.314266 -14.095341,-14.095343 0,-7.788059 6.30728,-14.095341 14.095341,-14.095341 7.781077,0 14.095343,6.307282 14.095343,14.095341 z m 0,0"
      id="path48" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78811085"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78811085"
      d="m 234.74542,227.67857 c 0,7.78806 -6.30727,14.09534 -14.09534,14.09534 -7.78107,0 -14.09533,-6.30728 -14.09533,-14.09534 0,-7.78107 6.31426,-14.09534 14.09533,-14.09534 7.78807,0 14.09534,6.31427 14.09534,14.09534 z m 0,0"
      id="path50" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78811085"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78811085"
      d="m 234.74542,50.278416 c 0,7.781077 -6.30727,14.095343 -14.09534,14.095343 -7.78107,0 -14.09533,-6.314266 -14.09533,-14.095343 0,-7.788059 6.31426,-14.095341 14.09533,-14.095341 7.78807,0 14.09534,6.307282 14.09534,14.095341 z m 0,0"
      id="path52" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78811085"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78811085"
      d="m 57.345273,227.67857 c 0,7.78806 -6.314266,14.09534 -14.095343,14.09534 -7.788061,0 -14.095341,-6.30728 -14.095341,-14.09534 0,-7.78107 6.30728,-14.09534 14.095341,-14.09534 7.781077,0 14.095343,6.31427 14.095343,14.09534 z m 0,0"
      id="path54" />
   <use
-     style="clip-rule:nonzero;fill:#000000;fill-opacity:1"
+     style="clip-rule:nonzero;fill:#ffffff;fill-opacity:1"
      xlink:href="#glyph0-1"
      x="131.19389"
      y="155.4371"
@@ -204,7 +204,7 @@
      height="100%"
      transform="matrix(1.7881108,0,0,1.7881108,0,0.00875488)" />
   <use
-     style="fill:#000000;fill-opacity:1"
+     style="fill:#ffffff;fill-opacity:1"
      height="100%"
      width="100%"
      id="use62"
@@ -213,7 +213,7 @@
      xlink:href="#glyph0-2"
      transform="matrix(1.7881108,0,0,1.7881108,0,0.00875488)" />
   <use
-     style="clip-rule:nonzero;fill:#000000;fill-opacity:1"
+     style="clip-rule:nonzero;fill:#ffffff;fill-opacity:1"
      xlink:href="#glyph0-3"
      x="-2.1093919"
      y="155.43674"
@@ -222,7 +222,7 @@
      height="100%"
      transform="matrix(1.7881108,0,0,1.7881108,0,0.00875488)" />
   <use
-     style="fill:#000000;fill-opacity:1"
+     style="fill:#ffffff;fill-opacity:1"
      height="100%"
      width="100%"
      id="use72"
@@ -232,21 +232,21 @@
      transform="matrix(1.7881108,0,0,1.7881108,0,0.00875488)" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:none;stroke:#000000;stroke-width:1.34108305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     style="fill:none;stroke:#ffffff;stroke-width:1.34108305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
      d="M 43.24993,50.278416 H 220.65008"
      id="path76" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:none;stroke:#000000;stroke-width:1.34108305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     style="fill:none;stroke:#ffffff;stroke-width:1.34108305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
      d="M 43.24993,227.67857 H 220.65008"
      id="path78" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:none;stroke:#000000;stroke-width:1.34108305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     style="fill:none;stroke:#ffffff;stroke-width:1.34108305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
      d="M 43.24993,50.278416 220.65008,227.67857 V 50.278416 L 43.24993,227.67857 Z m 0,0"
      id="path80" />
   <use
-     style="fill:#7f7f7f;fill-opacity:1"
+     style="fill:#e6e6e6;fill-opacity:1"
      height="100%"
      width="100%"
      id="use82"
@@ -255,7 +255,7 @@
      xlink:href="#glyph1-1"
      transform="matrix(1.7881108,0,0,1.7881108,0,0.00875488)" />
   <use
-     style="fill:#7f7f7f;fill-opacity:1"
+     style="fill:#e6e6e6;fill-opacity:1"
      height="100%"
      width="100%"
      id="use86"
@@ -264,7 +264,7 @@
      xlink:href="#glyph1-2"
      transform="matrix(1.7881108,0,0,1.7881108,0,0.00875488)" />
   <use
-     style="fill:#7f7f7f;fill-opacity:1"
+     style="fill:#e6e6e6;fill-opacity:1"
      height="100%"
      width="100%"
      id="use90"
@@ -273,7 +273,7 @@
      xlink:href="#glyph1-3"
      transform="matrix(1.7881108,0,0,1.7881108,0,0.00875488)" />
   <use
-     style="fill:#7f7f7f;fill-opacity:1"
+     style="fill:#e6e6e6;fill-opacity:1"
      height="100%"
      width="100%"
      id="use94"
@@ -282,7 +282,7 @@
      xlink:href="#glyph1-4"
      transform="matrix(1.7881108,0,0,1.7881108,0,0.00875488)" />
   <use
-     style="fill:#7f7f7f;fill-opacity:1"
+     style="fill:#e6e6e6;fill-opacity:1"
      height="100%"
      width="100%"
      id="use98"
@@ -291,7 +291,7 @@
      xlink:href="#glyph1-5"
      transform="matrix(1.7881108,0,0,1.7881108,0,0.00875488)" />
   <use
-     style="fill:#7f7f7f;fill-opacity:1"
+     style="fill:#e6e6e6;fill-opacity:1"
      height="100%"
      width="100%"
      id="use102"

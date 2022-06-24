@@ -81,7 +81,8 @@ From *lemma $3.4.1$*, *$\kappa(G) \leq \delta(G)$*, i.e, the minimum degree of $
 \[from *Corollary $2.2.4$*\].
 So, *a 3-connected graph must have at least six edges*.
 
-<figure>
-<embed src="../../figures/3_10_3-conn-6-edge.svg" id="fig:3_10" />
+<figure markdown id="fig:3_10">
+![3-regular graph with 4 vertices](../../figures/3_10_3-conn-6-edge.svg#only-light)
+![3-regular graph with 4 vertices dark](../../figures/3_10_3-conn-6-edge_dark.svg#only-dark)
 <figcaption aria-hidden="true">3-regular graph with 4 vertices</figcaption>
 </figure>

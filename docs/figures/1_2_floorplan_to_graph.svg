@@ -5,11 +5,35 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg140"
    version="1.2"
    viewBox="0 0 669.42284 475.37869"
    height="633.83826"
-   width="892.56378">
+   width="892.56378"
+   sodipodi:docname="1_2_floorplan_to_graph.svg"
+   inkscape:version="0.92.4 (5573076, 2020-04-04)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview76"
+     showgrid="false"
+     inkscape:zoom="0.31818454"
+     inkscape:cx="54.999529"
+     inkscape:cy="-432.77667"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg140" />
   <metadata
      id="metadata144">
     <rdf:RDF>
@@ -43,13 +67,6 @@
          d="m 22,130 h 140 v 4.43359 H 22 Z m 0,0" />
     </clipPath>
   </defs>
-  <rect
-     y="0"
-     x="0"
-     height="475.37436"
-     width="669.41595"
-     id="rect951"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.28337073;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <g
      transform="matrix(3.5361607,0,0,3.5361607,0,-5.8886719e-5)"
      id="surface48">

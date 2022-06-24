@@ -16,14 +16,16 @@ Construct the complement of $K_{3,3}, W_{5}$, and $C_{5}$.
 
 **Answer:** Complement of $K_{3,3}$ Figure [2.2.1]
 
-<figure>
-<embed src="../../figures/2_2_k33.svg" id="fig:2_2_k33" style="width:100.0%" />
+<figure markdown id="fig:2_2_k33">
+![$K_{3,3}$](../../figures/2_2_k33.svg#only-light)
+![$K_{3,3}$ dark](../../figures/2_2_k33_dark.svg#only-dark)
 <figcaption aria-hidden="true"><span
 class="arithmatex">\(K_{3,3}\)</span></figcaption>
 </figure>
 
-<figure>
-<embed src="../../figures/2_2_k33_c.svg" id="fig:2_2_k33_c" style="width:100.0%" />
+<figure markdown id="fig:2_2_k33_c">
+![$\overline{K}_{3,3}$](../../figures/2_2_k33_c.svg#only-light)
+![$\overline{K}_{3,3}$ dark](../../figures/2_2_k33_c_dark.svg#only-dark)
 <figcaption aria-hidden="true"><span
 class="arithmatex">\(\overline{K}_{3,3}\)</span></figcaption>
 </figure>
@@ -32,14 +34,16 @@ class="arithmatex">\(\overline{K}_{3,3}\)</span></figcaption>
 
 Complement of $W_{5}$ Figure [2.2.2]
 
-<figure>
-<embed src="../../figures/2_2_w5.svg" id="fig:2_2_w5" style="width:100.0%" />
+<figure markdown id="fig:2_2_w5">
+![$W_{5}$](../../figures/2_2_w5.svg#only-light)
+![$W_{5}$ dark](../../figures/2_2_w5_dark.svg#only-dark)
 <figcaption aria-hidden="true"><span
 class="arithmatex">\(W_{5}\)</span></figcaption>
 </figure>
 
-<figure>
-<embed src="../../figures/2_2_w5_c.svg" id="fig:2_2_w5_c" style="width:100.0%" />
+<figure markdown id="fig:2_2_w5_c">
+![$\overline{W}_{5}$](../../figures/2_2_w5_c.svg#only-light)
+![$\overline{W}_{5}$ dark](../../figures/2_2_w5_c_dark.svg#only-dark)
 <figcaption aria-hidden="true"><span
 class="arithmatex">\(\overline{W}_{5}\)</span></figcaption>
 </figure>
@@ -48,14 +52,16 @@ class="arithmatex">\(\overline{W}_{5}\)</span></figcaption>
 
 Complement of $C_{5}$ Figure [2.2.3]
 
-<figure>
-<embed src="../../figures/2_2_c5.svg" id="fig:2_2_c5" style="width:100.0%" />
+<figure markdown id="fig:2_2_c5">
+![$C_{5}$](../../figures/2_2_c5.svg#only-light)
+![$C_{5}$ dark](../../figures/2_2_c5_dark.svg#only-dark)
 <figcaption aria-hidden="true"><span
 class="arithmatex">\(C_{5}\)</span></figcaption>
 </figure>
 
-<figure>
-<embed src="../../figures/2_2_c5_c.svg" id="fig:2_2_c5_c" style="width:100.0%" />
+<figure markdown id="fig:2_2_c5_c">
+![$\overline{C}_{5}$](../../figures/2_2_c5_c.svg#only-light)
+![$\overline{C}_{5}$ dark](../../figures/2_2_c5_c_dark.svg#only-dark)
 <figcaption aria-hidden="true"><span
 class="arithmatex">\(\overline{C}_{5}\)</span></figcaption>
 </figure>
@@ -72,10 +78,10 @@ Suppose $v$ and $w$ are vertices. If $(v, w)$ is not an edge in $G$, then it is 
 This shows that any two vertices in $\overline{G}$ have a path (in fact a path of length one or two) between them in $\overline{G}$, so $\overline{G}$ is connected. \[[5]\]  
 Example Figure [2.3.1]:
 
-<figure>
-<embed src="../../figures/2_3_disc_g.svg" id="fig:2_3_disc_g" style="width:100.0%" />
-<figcaption aria-hidden="true">Complement of disconnected graph is
-connected example</figcaption>
+<figure markdown id="fig:2_3_disc_g">
+![Complement of disconnected graph is connected example](../../figures/2_3_disc_g.svg#only-light)
+![Complement of disconnected graph is connected example dark](../../figures/2_3_disc_g_dark.svg#only-dark)
+<figcaption aria-hidden="true">Complement of disconnected graph is connected example</figcaption>
 </figure>
 
 [2.3.1]: #fig:2_3_disc_g
@@ -86,8 +92,9 @@ Give two examples of self-complementary graphs.
 
 **Answer:** Self complementary graphs example: $C_5$, $P_4$ Figure [2.4.1]
 
-<figure>
-<embed src="../../figures/2_4_self_compl.svg" id="fig:2_4_self_compl" style="width:100.0%" />
+<figure markdown id="fig:2_4_self_compl">
+![Self complementary graphs $C_5, P_4$](../../figures/2_4_self_compl.svg#only-light)
+![Self complementary graphs $C_5, P_4$ dark](../../figures/2_4_self_compl_dark.svg#only-dark)
 <figcaption aria-hidden="true">Self complementary graphs <span
 class="arithmatex">\(C_5, P_4\)</span></figcaption>
 </figure>
@@ -117,23 +124,27 @@ Draw the graph $G = (V, E)$ with vertex set $V = \{a, b, c, d, e, f, g, h\}$ and
 
 **Answer:** Graph drawings Figure [2.7.1]
 
-<figure>
-<embed src="../../figures/2_7_G.svg" id="fig:2_7_G" style="width:100.0%" />
+<figure markdown id="fig:2_7_G">
+![$G$](../../figures/2_7_G.svg#only-light)
+![$G$ dark](../../figures/2_7_G_dark.svg#only-dark)
 <figcaption aria-hidden="true"><span class="arithmatex">\(G\)</span></figcaption>
 </figure>
 
-<figure>
-<embed src="../../figures/2_7_G-d_e.svg" id="fig:2_7_G-d_e" style="width:100.0%" />
+<figure markdown id="fig:2_7_G-d_e">
+![$G-(d,e)$](../../figures/2_7_G-d_e.svg#only-light)
+![$G-(d,e)$ dark](../../figures/2_7_G-d_e_dark.svg#only-dark)
 <figcaption aria-hidden="true"><span class="arithmatex">\(G-(d,e)\)</span></figcaption>
 </figure>
 
-<figure>
-<embed src="../../figures/2_7_c_d_e_f.svg" id="fig:2_7_c_d_e_f" style="width:100.0%" />
+<figure markdown id="fig:2_7_c_d_e_f">
+![$G$ induced by $\{c, d, e, f\}$](../../figures/2_7_c_d_e_f.svg#only-light)
+![$G$ induced by $\{c, d, e, f\}$ dark](../../figures/2_7_c_d_e_f_dark.svg#only-dark)
 <figcaption aria-hidden="true"><span class="arithmatex">\(G\)</span> induced by <span class="arithmatex">\(\{c, d, e, f\}\)</span></figcaption>
 </figure>
 
-<figure>
-<embed src="../../figures/2_7_G-d_e_contr.svg" id="fig:2_7_G-d_e_contr" style="width:100.0%" />
+<figure markdown id="fig:2_7_G-d_e_contr">
+![$(d, e)$ edge contracted from $G$](../../figures/2_7_G-d_e_contr.svg#only-light)
+![$(d, e)$ edge contracted from $G$ dark](../../figures/2_7_G-d_e_contr_dark.svg#only-dark)
 <figcaption aria-hidden="true"><span class="arithmatex">\((d, e)\)</span> edge contracted from <span class="arithmatex">\(G\)</span></figcaption>
 </figure>
 
