@@ -1,13 +1,13 @@
 # Project information
 site_name: An Attempt to Solution to Basic Graph Theory - Md. Saidur Rahman
-site_url: https://asifajrof.github.io/Solution.compilation-17-Md.Saidur.Rahman-Basic.Graph.Theory/
+site_url: https://asifajrof.github.io/graph-book-solve/
 site_author: CSE 17
 site_description: >-
     An Attempt to Solution to Basic Graph Theory - Md. Saidur Rahman
   
 ## Repository
-repo_name: asifajrof/Solution.compilation-17-Md.Saidur.Rahman-Basic.Graph.Theory
-repo_url: https://github.com/asifajrof/Solution.compilation-17-Md.Saidur.Rahman-Basic.Graph.Theory
+repo_name: asifajrof/graph-book-solve
+repo_url: https://github.com/asifajrof/graph-book-solve
 edit_uri: tree/main/docs/
 
 # Copyright
@@ -46,7 +46,7 @@ extra:
   generator: false
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/asifajrof/Solution.compilation-17-Md.Saidur.Rahman-Basic.Graph.Theory
+      link: https://github.com/asifajrof/graph-book-solve
 
 # Page tree
 nav:
