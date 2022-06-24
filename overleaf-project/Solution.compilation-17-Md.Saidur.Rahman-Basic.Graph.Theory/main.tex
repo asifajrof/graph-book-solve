@@ -1,0 +1,126 @@
+\documentclass[12pt,a4paper,twoside]{report}
+\usepackage[margin=1in]{geometry}
+\setlength{\headheight}{15pt}
+
+\usepackage[english]{babel}
+\usepackage{blindtext}
+
+% \usepackage{xcolor}
+
+\usepackage{fancyhdr}\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[RE]{\it{\nouppercase{\leftmark}}}
+\fancyhead[LO]{\it{\nouppercase{\rightmark}}}
+\fancyhead[LE,RO]{\thepage}
+\fancyfoot{}
+\usepackage{emptypage}
+\usepackage{setspace} %for line spacing
+\setlength{\parindent}{0em}
+\renewcommand{\chaptername}{}   %suppress the chapter
+\usepackage[hidelinks]{hyperref}
+
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amssymb,amsfonts}
+
+\usepackage{graphicx}\graphicspath{{figures/}}
+\usepackage{subcaption}
+% \usepackage{svg}
+\usepackage{float}
+\usepackage{enumitem}
+
+% \usepackage{pgfplots}
+% \pgfplotsset{compat=1.15}
+% \usetikzlibrary{arrows}
+% \usepackage{tikz}
+
+% \definecolor{zzttqq}{rgb}{0.6,0.2,0}
+% \definecolor{zzwwff}{rgb}{0.6,0.4,1}
+% \definecolor{ttttff}{rgb}{0.2,0.2,1}
+% \definecolor{wwccqq}{rgb}{0.4,0.8,0}
+% \definecolor{purpleish}{rgb}{0.76,0.74,0.87}
+% \definecolor{yellowish}{rgb}{1,1,0.75}
+% \definecolor{redish}{rgb}{1,0.8,0.87}
+% \definecolor{greenish}{rgb}{0.8,0.9,0.8}
+
+\usepackage[square,numbers]{natbib}
+\bibliographystyle{abbrv}
+\usepackage[nottoc]{tocbibind}
+\renewcommand\bibname{References}
+
+% \usepackage{multirow}
+% \usepackage{csquotes}
+
+\setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{3}
+
+\usepackage{authblk}
+% \renewcommand*{\Authsep}{, \\ \bigskip}
+% \renewcommand*{\Authand}{\\ \bigskip}
+% \renewcommand*{\Authands}{\\ \bigskip}
+
+\title{
+    \Large{An attempt to Solution to} \\
+    \Huge \textbf{Basic Graph Theory}\\ \bigskip
+    \large{- Md. Saidur Rahman}
+}
+
+\author[ ]{
+    \normalsize{Compilation by: \\ Asif Ajrof (1705092)}
+}
+\author[ ]{
+    \normalsize{Mehedi Hasan (1705085)}
+}
+% \author[ ]{
+%     \normalsize{yet another name (1705xxx)}
+% }\author[ ]{
+%     \normalsize{yet another another name (1705xxx)}
+% }
+\affil[ ]{
+    \large{Department of Computer Science and Engineering \\
+    Bangladesh University of Engineering and Technology.}
+}
+\date{
+    \Large{June, 2022}
+}
+
+\raggedbottom   %clearing extra newlines at the end of sections/chapters
+
+\begin{document}
+
+\pagestyle{empty}   %no header footer	
+
+\maketitle	
+% \cleardoublepage    %for two-side. skip the even page. 
+
+\onehalfspacing
+\pagestyle{fancy}
+\pagenumbering{roman}
+% \cleardoublepage
+\tableofcontents
+% \listoffigures
+
+\renewcommand{\abstractname}{Disclaimer}
+\begin{abstract}
+    The solutions in this compilation are either collected from senior's notes, a hint from a stack post, and/or our understanding. These are offered “as-is”, without warranty, and disclaiming liability for faults. If you find a correction or better solution to a problem, please contribute to make this compilation better.
+\end{abstract}
+
+\renewcommand{\abstractname}{Acknowledgement}
+\begin{abstract}
+    .
+\end{abstract}
+    
+\onehalfspacing
+\setlength{\parskip}{1em}
+\pagenumbering{arabic}	
+
+\include{chapters/chapter_1}
+\include{chapters/chapter_2}
+\include{chapters/chapter_3}
+% \include{chapters/chapter_4}
+% \include{chapters/chapter_5}
+
+\singlespacing
+\renewcommand{\bibname}{References}
+\bibliography{bibfile}
+	
+\end{document}
