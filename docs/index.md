@@ -2,7 +2,6 @@ An attempt to Solution to
 # [Basic Graph Theory](https://link.springer.com/book/10.1007/978-3-319-49475-3)
 \- Md. Saidur Rahman
 
-<span class="center"> hi </span>
 ---
 
 Compilation by:
